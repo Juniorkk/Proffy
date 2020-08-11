@@ -1,6 +1,6 @@
 # Initial configurations
 
-`yarn knex:migrate` to create the database
+`yarn knex:migrate` : Executar a criação do database
 
 # Funcionalidades
 
