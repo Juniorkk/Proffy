@@ -1,2 +1,1 @@
-# Proffy
- Plataforma de estudo que conecta diretamente alunos e professores.
+### Plataforma de estudos online, onde é possivel conectar alunos com professores.
